@@ -337,3 +337,4 @@
   * [Вопросы для технического собеседования](questions.md/#Вопросы-для-технического-собеседования)
 - [Интересные ссылки](questions.md/#Интересные-ссылки)
 - [Источники вопросов](questions.md/#Источники-вопросов)
+- [100 вопросов на python](https://uproger.com/bolee-100-voprosov-s-sobesedovaniya-python-razbor-realnyh-voprosov/)
