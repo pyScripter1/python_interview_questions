@@ -338,3 +338,4 @@
 - [Интересные ссылки](questions.md/#Интересные-ссылки)
 - [Источники вопросов](questions.md/#Источники-вопросов)
 - [100 вопросов на python](https://uproger.com/bolee-100-voprosov-s-sobesedovaniya-python-razbor-realnyh-voprosov/)
+- [99 вопросов для python собеседования](https://tproger.ru/articles/chto-dolzhen-znat-razrabotchik-na-python-bez-opyta)
