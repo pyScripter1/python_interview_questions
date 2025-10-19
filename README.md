@@ -341,3 +341,4 @@
 - [Источники вопросов](questions.md/#Источники-вопросов)
 - [100 вопросов на python](https://uproger.com/bolee-100-voprosov-s-sobesedovaniya-python-razbor-realnyh-voprosov/)
 - [99 вопросов для python собеседования](https://tproger.ru/articles/chto-dolzhen-znat-razrabotchik-na-python-bez-opyta)
+- [Базовые вопросы с технического собеседования Python (Видео)](https://rutube.ru/video/67aa0e16dcea4027c3e1c9ea9d82be93/)
